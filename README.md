@@ -6,7 +6,7 @@ In this website you will find pieces of codes to perform statistical analysis an
 
 For Econometrics, I usully use [R](https://www.r-project.org/), [Python](https://www.python.org/), [RStudio](https://rstudio.com/) that is a great IDE for R+Python. I also provide some chuncks of code for [Stata](https://www.stata.com/) that my students usually find helpful. Of course, [Stata List](https://www.statalist.org/) and [Stata Journal](https://www.stata-journal.com/) are the awesome places to check out.
 
-For Macroeconomics, I usually use [Mathematica](https://www.wolfram.com/mathematica/) and [MATLAB](https://www.mathworks.com/products/matlab.html)
+For Macroeconomics, I usually use [Mathematica](https://www.wolfram.com/mathematica/) and [MATLAB](https://www.mathworks.com/products/matlab.html target="_blank")
 
 A great source of help and debate is [Stack Exchange](https://stackexchange.com/sites#). In that website, you can get free access to literally thousands of forums about different softwares and topics within each software.
 
@@ -14,7 +14,7 @@ Last but not least, [LaTeX](https://www.latex-project.org/) is the right way to 
 
 ### Latest Research Published
 
-_Strengths and limitations of mathematical models in pandemics—the case of COVID-19 in Chile_ at [Medwave](https://www.medwave.cl/link.cgi/Medwave/Perspectivas/Comentario/7876.act?tab=ingles)
+_Strengths and limitations of mathematical models in pandemics—the case of COVID-19 in Chile_ at [Medwave](https://www.medwave.cl/link.cgi/Medwave/Perspectivas/Comentario/7876.act?tab=ingles) <a href="http://stackoverflow.com" target="_blank">Go</a>
 
 ```markdown
 Syntax highlighted code block
