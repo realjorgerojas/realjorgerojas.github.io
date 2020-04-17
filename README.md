@@ -17,10 +17,8 @@ Last but not least, <a href="https://www.latex-project.org/" target="_blank">LaT
 _Strengths and limitations of mathematical models in pandemics—the case of COVID-19 in Chile_ at <a href="https://www.medwave.cl/link.cgi/Medwave/Perspectivas/Comentario/7876.act?tab=ingles" target="_blank">Medwave</a>
 
 ```markdown
-Syntax highlighted code block
-
 # Header 1
-<p style="color:green">This is a paragraph.</p>
+This short paper focuses on the role of mathematical models to analyze the impact of pandemics on health resources and the different trade-offs that may be included in them. There is a large body of literature suggesting that mathematical modeling may be helpful to estimate how much additional equipment and infrastructure are necessary to mitigate an increase in demand for health services during a large-scale outbreak of an infectious disease. I comment on the crucial role of these models with a special focus on their strengths and limitations.
 
 ## Header 2
 ### Header 3
@@ -44,4 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have questions feel free to shut me an email to engineer at jorgerojas.cl
