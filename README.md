@@ -4,17 +4,17 @@ This website contains information about my empirical and theoretical research on
 
 In this website you will find pieces of codes to perform statistical analysis and numerical simulations. Numerical simulations can be used for econometric or macroeconomic exercises. 
 
-For Econometrics, I usully use [R](https://www.r-project.org/), [Python](https://www.python.org/), [RStudio](https://rstudio.com/) that is a great IDE for R+Python. I also provide some chuncks of code for [Stata](https://www.stata.com/) that my students usually find helpful. Of course, [Stata List](https://www.statalist.org/) and [Stata Journal](https://www.stata-journal.com/) are the awesome places to check out.
+For Econometrics, I usully use <a href="" target="_blank">R</a> [R](https://www.r-project.org/), <a href="https://www.python.org/" target="_blank">Python</a>, <a href="https://rstudio.com/" target="_blank">RStudio</a> that is a great IDE for R+Python. I also provide some chuncks of code for <a href="https://www.stata.com/" target="_blank">Stata</a> that my students usually find helpful. Of course, <a href="https://www.statalist.org/" target="_blank">Stata List</a> and <a href="https://www.stata-journal.com/" target="_blank">Stata Journal</a> are the awesome places to check out.
 
-For Macroeconomics, I usually use [Mathematica](https://www.wolfram.com/mathematica/) and [MATLAB](https://www.mathworks.com/products/matlab.html target="_blank")
+For Macroeconomics, I usually use <a href="https://www.wolfram.com/mathematica/" target="_blank">Mathematica</a> and <a href="https://www.mathworks.com/products/matlab.html" target="_blank">MATLAB</a>.
 
-A great source of help and debate is [Stack Exchange](https://stackexchange.com/sites#). In that website, you can get free access to literally thousands of forums about different softwares and topics within each software.
+A great source of help and debate is <a href="https://stackexchange.com/sites#" target="_blank">Stack Exchange</a>. In that website, you can get free access to literally thousands of forums about different softwares and topics within each software.
 
-Last but not least, [LaTeX](https://www.latex-project.org/) is the right way to write.
+Last but not least, <a href="https://www.latex-project.org/" target="_blank">LaTeX</a> is the right way to write.
 
 ### Latest Research Published
 
-_Strengths and limitations of mathematical models in pandemics—the case of COVID-19 in Chile_ at [Medwave](https://www.medwave.cl/link.cgi/Medwave/Perspectivas/Comentario/7876.act?tab=ingles) <a href="http://stackoverflow.com" target="_blank">Go</a>
+_Strengths and limitations of mathematical models in pandemics—the case of COVID-19 in Chile_ at <a href="https://www.medwave.cl/link.cgi/Medwave/Perspectivas/Comentario/7876.act?tab=ingles" target="_blank">Medwave</a>
 
 ```markdown
 Syntax highlighted code block
