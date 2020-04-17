@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome JoRoV11 - Applied Econometrics
 
 You can use the [editor on GitHub](https://github.com/jorov11/jorov11.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
