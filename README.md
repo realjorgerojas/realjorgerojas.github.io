@@ -19,26 +19,7 @@ _Strengths and limitations of mathematical models in pandemics—the case of COV
 ```markdown
 # Header 1
 This short paper focuses on the role of mathematical models to analyze the impact of pandemics on health resources and the different trade-offs that may be included in them. There is a large body of literature suggesting that mathematical modeling may be helpful to estimate how much additional equipment and infrastructure are necessary to mitigate an increase in demand for health services during a large-scale outbreak of an infectious disease. I comment on the crucial role of these models with a special focus on their strengths and limitations.
-
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jorov11/jorov11.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
