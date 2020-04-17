@@ -20,6 +20,8 @@ _Strengths and limitations of mathematical models in pandemics—the case of COV
 Syntax highlighted code block
 
 # Header 1
+<p style="color:green">This is a paragraph.</p>
+
 ## Header 2
 ### Header 3
 
