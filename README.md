@@ -16,8 +16,10 @@ Last but not least, <a href="https://www.latex-project.org/" target="_blank">LaT
 
 ```markdown
 # Neoclassical Macroeconomics
-Define parameters
+##Define parameters
 &alpha; = 5
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 ```
 
 ### Support or Contact
