@@ -1,5 +1,6 @@
 ## Welcome JoRoV11 - Applied Econometrics
 
+This website contains information about my empirical and theoretical research on economics and medicine. If you would like to download my lectures, handouts, podcasts, videos, and opinions, please check my personal website [here.](http://www.jorgerojas.cl)
 You can use the [editor on GitHub](https://github.com/jorov11/jorov11.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
