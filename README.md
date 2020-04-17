@@ -14,10 +14,12 @@ Last but not least, <a href="https://www.latex-project.org/" target="_blank">LaT
 
 ### Check some of my projects below
 
+# [Neoclassical Macroeconomics](http://www.jorgerojas.cl)
+
 F(K,L) = A K<sup>&alpha;</sup> L<sup>&beta;</sup>
 
 ```markdown
-# [Neoclassical Macroeconomics](http://www.jorgerojas.cl)
+# Neoclassical Macroeconomics
 ##Define parameters
 alpha = 0.3; beta = 1 - alpha
 
