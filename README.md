@@ -19,9 +19,8 @@ h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 ```markdown
 # Neoclassical Macroeconomics
 ##Define parameters
-&alpha; = 5
+alpha = 0.3; beta = 1 - alpha
 
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 ```
 
 ### Support or Contact
