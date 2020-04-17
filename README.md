@@ -14,7 +14,7 @@ Last but not least, <a href="https://www.latex-project.org/" target="_blank">LaT
 
 ## Check some of my projects below
 
-### [Neoclassical Macroeconomics](https://jorov11.github.io/tariffsmacro)
+### [Neoclassical Macroeconomics](https://jorov11.github.io/macroeconomics/code1)
 
 F(K,L) = A K<sup>&alpha;</sup> L<sup>&beta;</sup>
 
