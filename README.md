@@ -1,7 +1,8 @@
-## Welcome JoRoV11 - Applied Econometrics
+## Welcome JoRoV11 - Data and Theory
 
-This website contains information about my empirical and theoretical research on economics and medicine. If you would like to download my lectures, handouts, podcasts, videos, and opinions, please check my personal website [here.](http://www.jorgerojas.cl)
-You can use the [editor on GitHub](https://github.com/jorov11/jorov11.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website contains information about my empirical and theoretical research on economics and medicine. If you would like to download my lectures, handouts, podcasts, videos, and opinions, please check my personal website [here](http://www.jorgerojas.cl)
+
+In this website you will find pieces of codes to perform statistical analysis and numerical simulations. Numerical simulations can be used for econometric or macroeconomic exercises. I usully use [R](https://www.r-project.org/), [Python](https://www.python.org/), [RStudio](https://rstudio.com/) that is a great IDE for R+Python. I also provide some chuncks of code for [Stata](https://www.stata.com/) that my students usually find helpful. Of course, [Stata List](https://www.statalist.org/) and [Stata Journal](https://www.stata-journal.com/) are the awesome places to check out.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
