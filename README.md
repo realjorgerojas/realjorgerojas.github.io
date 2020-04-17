@@ -2,9 +2,15 @@
 
 This website contains information about my empirical and theoretical research on economics and medicine. If you would like to download my lectures, handouts, podcasts, videos, and opinions, please check my personal website [here](http://www.jorgerojas.cl)
 
-In this website you will find pieces of codes to perform statistical analysis and numerical simulations. Numerical simulations can be used for econometric or macroeconomic exercises. I usully use [R](https://www.r-project.org/), [Python](https://www.python.org/), [RStudio](https://rstudio.com/) that is a great IDE for R+Python. I also provide some chuncks of code for [Stata](https://www.stata.com/) that my students usually find helpful. Of course, [Stata List](https://www.statalist.org/) and [Stata Journal](https://www.stata-journal.com/) are the awesome places to check out.
+In this website you will find pieces of codes to perform statistical analysis and numerical simulations. Numerical simulations can be used for econometric or macroeconomic exercises. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For Econometrics, I usully use [R](https://www.r-project.org/), [Python](https://www.python.org/), [RStudio](https://rstudio.com/) that is a great IDE for R+Python. I also provide some chuncks of code for [Stata](https://www.stata.com/) that my students usually find helpful. Of course, [Stata List](https://www.statalist.org/) and [Stata Journal](https://www.stata-journal.com/) are the awesome places to check out.
+
+For Macroeconomics, I usually use [Mathematica](https://www.wolfram.com/mathematica/) and [MATLAB](https://www.mathworks.com/products/matlab.html)
+
+A great source of help and debate is [Stack Exchange](https://stackexchange.com/sites#). In that website, you can get free access to literally thousands of forums about different softwares and topics within each software.
+
+Last but not least, [LaTeX](https://www.latex-project.org/) is the right way to write.
 
 ### Markdown
 
