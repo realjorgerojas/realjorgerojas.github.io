@@ -1,6 +1,6 @@
 ## Welcome JoRoV11 - Data and Theory
 
-This website contains information about my empirical and theoretical research on economics and medicine. If you would like to download my lectures, handouts, podcasts, videos, and opinions, please check my personal website [here](http://www.jorgerojas.cl)
+This website contains information about my empirical and theoretical research on economics and medicine. If you would like to download my lectures, handouts, podcasts, videos, and opinions, please check my personal website <a href="http://www.jorgerojas.cl" target="_blank">here</a>
 
 In this website you will find pieces of codes to perform statistical analysis and numerical simulations. Numerical simulations can be used for econometric or macroeconomic exercises. 
 
