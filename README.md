@@ -14,7 +14,7 @@ Last but not least, <a href="https://www.latex-project.org/" target="_blank">LaT
 
 ### Check some of my projects below
 
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+F(K,L) = A K<sup>&alpha;</sup> L<sup>&beta;</sup>
 
 ```markdown
 # Neoclassical Macroeconomics
