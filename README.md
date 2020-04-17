@@ -16,7 +16,8 @@ Last but not least, <a href="https://www.latex-project.org/" target="_blank">LaT
 
 ```markdown
 # Neoclassical Macroeconomics
-
+Define parameters
+\alpha = 5
 ```
 
 ### Support or Contact
