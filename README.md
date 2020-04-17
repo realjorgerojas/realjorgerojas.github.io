@@ -12,9 +12,9 @@ A great source of help and debate is <a href="https://stackexchange.com/sites#" 
 
 Last but not least, <a href="https://www.latex-project.org/" target="_blank">LaTeX</a> is the right way to write.
 
-### Check some of my projects below
+## Check some of my projects below
 
-#### [Neoclassical Macroeconomics](http://www.jorgerojas.cl)
+### [Neoclassical Macroeconomics](http://www.jorgerojas.cl)
 
 F(K,L) = A K<sup>&alpha;</sup> L<sup>&beta;</sup>
 
