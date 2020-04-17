@@ -12,9 +12,9 @@ A great source of help and debate is [Stack Exchange](https://stackexchange.com/
 
 Last but not least, [LaTeX](https://www.latex-project.org/) is the right way to write.
 
-### Markdown
+### Latest Research Published
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Strengths and limitations of mathematical models in pandemics—the case of COVID-19 in Chile_ at [Medwave](https://www.medwave.cl/link.cgi/Medwave/Perspectivas/Comentario/7876.act?tab=ingles)
 
 ```markdown
 Syntax highlighted code block
