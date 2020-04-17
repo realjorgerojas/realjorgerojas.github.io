@@ -17,7 +17,7 @@ Last but not least, <a href="https://www.latex-project.org/" target="_blank">LaT
 F(K,L) = A K<sup>&alpha;</sup> L<sup>&beta;</sup>
 
 ```markdown
-# [Neoclassical Macroeconomics](www.jorgerojas.cl)
+# [Neoclassical Macroeconomics](http://www.jorgerojas.cl)
 ##Define parameters
 alpha = 0.3; beta = 1 - alpha
 
