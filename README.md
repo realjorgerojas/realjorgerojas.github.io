@@ -14,6 +14,8 @@ Last but not least, <a href="https://www.latex-project.org/" target="_blank">LaT
 
 ### Check some of my projects below
 
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+
 ```markdown
 # Neoclassical Macroeconomics
 ##Define parameters
