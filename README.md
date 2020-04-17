@@ -1,4 +1,4 @@
-## Welcome JoRoV11 - Data and Theory
+# Welcome JoRoV11 - Data and Theory
 
 This website contains information about my empirical and theoretical research on economics and medicine. If you would like to download my lectures, handouts, podcasts, videos, and opinions, please check my personal website <a href="http://www.jorgerojas.cl" target="_blank">here</a>
 
