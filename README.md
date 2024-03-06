@@ -25,6 +25,6 @@ alpha = 0.3; beta = 1 - alpha
 
 ```
 
-### Support or Contact
+## Support or Contact
 
 If you have questions feel free to shut me an email to realjorgerojas at gmail.com
